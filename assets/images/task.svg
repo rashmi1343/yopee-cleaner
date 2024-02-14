@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
+  <g id="Group_220" data-name="Group 220" transform="translate(-17 -15)">
+    <circle id="Ellipse_4" data-name="Ellipse 4" cx="25" cy="25" r="25" transform="translate(17 15)" fill="#edf3ff"/>
+    <path id="check-circle-svgrepo-com" d="M27,14.5A12.5,12.5,0,1,1,14.5,2,12.5,12.5,0,0,1,27,14.5Zm-7.462-3.788a.937.937,0,0,1,0,1.326l-6.25,6.25a.937.937,0,0,1-1.326,0l-2.5-2.5a.937.937,0,0,1,1.326-1.326L12.625,16.3l2.794-2.793,2.794-2.794A.937.937,0,0,1,19.538,10.712Z" transform="translate(28 26)" fill="#1fc43b" fill-rule="evenodd"/>
+  </g>
+</svg>

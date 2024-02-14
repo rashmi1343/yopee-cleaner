@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "576304811222",
+    "project_id": "yopee-cleaner",
+    "storage_bucket": "yopee-cleaner.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:576304811222:android:da944187d7bdffb264cd77",
+        "android_client_info": {
+          "package_name": "com.app.yopee_cleaner"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZVujLQB7bfQbmFDqFl_xf29mVMRNtKzU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
